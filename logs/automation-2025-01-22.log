@@ -1,0 +1,61 @@
+20:25:39:294[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:25:40:503[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:25:40:516[main]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:25:43:549[main]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:25:43:734[main]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:26:51:678[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:27:03:765[main]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:27:05:331[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:27:06:371[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:27:06:378[main]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:27:09:328[main]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:27:09:485[main]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:28:16:290[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:28:31:925[main]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:28:34:591[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:28:37:216[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:28:37:221[main]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:28:41:252[main]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:28:41:885[main]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:32:07:135[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\crossBrowser.xml
+
+20:32:27:198[main]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:32:28:024[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:32:28:981[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:32:28:992[main]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:32:32:759[main]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:32:32:877[main]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:33:21:478[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\crossBrowser.xml
+
+20:33:34:448[main]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:33:36:467[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:33:38:242[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:33:38:317[main]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:33:41:361[main]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:33:41:474[main]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:33:56:073[main]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:33:57:554[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:33:58:289[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:33:58:291[main]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:34:00:273[main]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:34:00:341[main]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:40:27:681[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\crossBrowser.xml
+
+20:40:45:678[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:40:49:129[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:40:50:594[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:40:50:619[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:40:50:785[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:40:52:740[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:40:54:149[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:40:54:150[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:40:56:314[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:40:56:503[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:40:56:873[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message

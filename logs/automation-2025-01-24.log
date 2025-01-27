@@ -1,0 +1,67 @@
+20:40:56:963[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:54:55:830[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:55:14:205[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:56:10:183[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:56:17:093[main]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:56:18:190[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:56:18:835[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:56:18:844[main]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:56:20:960[main]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:56:21:055[main]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:56:36:050[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\crossBrowser.xml
+
+20:56:46:304[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:56:51:227[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:56:52:279[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+20:56:52:821[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+20:56:54:358[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:56:54:364[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:56:54:630[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+20:56:54:632[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+20:56:58:692[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:56:58:907[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+20:56:59:023[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+20:56:59:093[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+21:00:57:473[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\crossBrowser.xml
+
+21:01:09:914[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+21:01:11:613[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+21:01:14:415[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+21:01:14:426[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+21:01:14:907[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-*****Starting TC001*****
+21:01:15:446[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Myaccount info
+21:01:16:592[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Register info
+21:01:16:596[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Providing customer details
+21:01:19:113[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+21:01:19:890[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+21:01:20:487[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Validating expected message
+21:01:20:568[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-*****Finished TC001*****
+19:09:59:040[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+19:10:08:399[main]INFO  testCases.TC002_LoginTest-***Starting TC002_LoginTest***
+19:10:11:222[main]INFO  testCases.TC002_LoginTest-finished
+20:23:53:668[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:26:36:864[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:30:21:687[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\SHIVA\Desktop\Shiva Automation\AutomtionTesting\OpencartV1\testng.xml
+
+20:30:30:652[main]INFO  testCases.TC003_LoginDDT-***Starting TC003_LoginDDT***
+20:30:33:368[main]INFO  testCases.TC003_LoginDDT-finished
+20:30:33:390[main]INFO  testCases.TC003_LoginDDT-***Starting TC003_LoginDDT***
+20:30:44:858[main]INFO  testCases.TC003_LoginDDT-finished
+20:30:44:873[main]INFO  testCases.TC003_LoginDDT-***Starting TC003_LoginDDT***
+20:30:46:993[main]INFO  testCases.TC003_LoginDDT-finished
+20:30:47:008[main]INFO  testCases.TC003_LoginDDT-***Starting TC003_LoginDDT***
